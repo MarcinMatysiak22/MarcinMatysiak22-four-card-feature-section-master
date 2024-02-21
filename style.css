@@ -79,7 +79,7 @@ svg{
     align-self: flex-end;
 }
 
-@media (max-width:350px) {
+@media (max-width:600px) {
     .main{
         flex-direction: column;
     }
